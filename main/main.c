@@ -1,5 +1,4 @@
 /*
-Name: Nicholas Lexiene Laksamana
 Advanced C Final Project - Student Grading System
 */
 
