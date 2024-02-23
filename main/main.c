@@ -1,6 +1,5 @@
 /*
 Name: Nicholas Lexiene Laksamana
-ID: 23012859
 Advanced C Final Project - Student Grading System
 */
 
